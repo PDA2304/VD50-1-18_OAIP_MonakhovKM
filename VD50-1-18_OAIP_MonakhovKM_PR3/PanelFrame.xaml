@@ -10,6 +10,6 @@
 
     <Grid>
         <NavigationView x:Name="UserProfileBtn" Content="NavigationView"/>
-
+        <Frame x:Name="userMenu"/>
     </Grid>
 </Page>

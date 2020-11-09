@@ -166,3 +166,13 @@ C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM
 C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\obj\x86\Debug\resources.en-us.resfiles.intermediate
 C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\obj\x86\Debug\Users.g.i.cs
+C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\obj\x86\Debug\Users.g.cs
+C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\obj\x86\Debug\Users.xaml
+C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\obj\x86\Debug\Users.xbf
+C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Users.xbf
+C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Properties.Resources.resw

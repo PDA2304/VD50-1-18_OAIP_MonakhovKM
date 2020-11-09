@@ -10,7 +10,7 @@
 
     <Grid>
         <NavigationView x:ConnectionId='2' x:Name="UserProfileBtn" Content="NavigationView"/>
-
+        <Frame x:ConnectionId='3' x:Name="userMenu"/>
     </Grid>
 </Page>
 

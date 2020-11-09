@@ -39,6 +39,26 @@ namespace VD50_1_18_OAIP_MonakhovKM_PR3
             (0, 1) + ".";
             // Назначение содержания на элемент
             UserProfileBtn.Content = Config.localSettings.Values["last_name"] + initials;
+
+            switch (Convert.ToInt32(Config.localSettings.Values["id_group"]))
+            {
+                // Идентификатор группы
+                case 1:
+                    // Объявление нового элемента навигационного меню в качестве
+                    NavigationViewItem edit_users = new NavigationViewItem();
+                    // Задание названия
+                    edit_users.Content = "Пользователи";
+                    // Задание икноки
+                    edit_users.Icon = new SymbolIcon(Symbol.People);
+                    // Создание обработчика события при нажатии — открытие нового
+                    edit_users.Tapped += (s, e) =>
+                    {
+                        userMenu.Navigate(typeof(Users));
+                    };
+                    // Добавление элемента в общий список навигационного меню
+                    UserProfileBtn.MenuItems.Add(edit_users);
+                    break;
+            }
         }
     }
 }

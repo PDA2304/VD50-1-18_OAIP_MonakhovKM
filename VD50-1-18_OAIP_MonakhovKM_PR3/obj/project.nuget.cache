@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "opfFNNZn7EKkbk3lw3ZU+cOPf7l/ONF8TZ7m3mPufh4ty8ibdAUfCkO4p5edmSgZOtn18BnU62HL8dpBu3Ykrg==",
+  "dgSpecHash": "JVCV3PGvWGndISpZS/aWDS3ANZJJeJh5E1mG3ulo2CDXR7b1qHoz+ehjtDLZtWRmgLc1icemXorUUTEZCvya3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\isip_\\Downloads\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
     "C:\\Users\\isip_\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\isip_\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.2.9\\microsoft.netcore.universalwindowsplatform.6.2.9.nupkg.sha512",
+    "C:\\Users\\isip_\\.nuget\\packages\\microsoft.toolkit.uwp.ui.controls.datagrid\\6.1.1\\microsoft.toolkit.uwp.ui.controls.datagrid.6.1.1.nupkg.sha512",
     "C:\\Users\\isip_\\.nuget\\packages\\mysql.data\\8.0.21\\mysql.data.8.0.21.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\isip_\\.nuget\\packages\\nito.asyncex.context\\5.1.0\\nito.asyncex.context.5.1.0.nupkg.sha512",

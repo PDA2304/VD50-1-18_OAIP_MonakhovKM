@@ -43,6 +43,7 @@
     <Pkgruntime_win10-arm_Microsoft_Net_UWPCoreRuntimeSdk Condition=" '$(Pkgruntime_win10-arm_Microsoft_Net_UWPCoreRuntimeSdk)' == '' ">C:\Users\isip_\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9</Pkgruntime_win10-arm_Microsoft_Net_UWPCoreRuntimeSdk>
     <Pkgruntime_win10-arm_Microsoft_Net_Native_SharedLibrary Condition=" '$(Pkgruntime_win10-arm_Microsoft_Net_Native_SharedLibrary)' == '' ">C:\Users\isip_\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.7-rel-27913-00</Pkgruntime_win10-arm_Microsoft_Net_Native_SharedLibrary>
     <Pkgruntime_win10-arm_Microsoft_Net_Native_Compiler Condition=" '$(Pkgruntime_win10-arm_Microsoft_Net_Native_Compiler)' == '' ">C:\Users\isip_\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.7-rel-27913-00</Pkgruntime_win10-arm_Microsoft_Net_Native_Compiler>
+    <PkgMicrosoft_Toolkit_Uwp_UI_Controls_DataGrid Condition=" '$(PkgMicrosoft_Toolkit_Uwp_UI_Controls_DataGrid)' == '' ">C:\Users\isip_\.nuget\packages\microsoft.toolkit.uwp.ui.controls.datagrid\6.1.1</PkgMicrosoft_Toolkit_Uwp_UI_Controls_DataGrid>
     <PkgMicrosoft_Net_UWPCoreRuntimeSdk Condition=" '$(PkgMicrosoft_Net_UWPCoreRuntimeSdk)' == '' ">C:\Users\isip_\.nuget\packages\microsoft.net.uwpcoreruntimesdk\2.2.9</PkgMicrosoft_Net_UWPCoreRuntimeSdk>
     <PkgMicrosoft_Net_Native_Compiler Condition=" '$(PkgMicrosoft_Net_Native_Compiler)' == '' ">C:\Users\isip_\.nuget\packages\microsoft.net.native.compiler\2.2.7-rel-27913-00</PkgMicrosoft_Net_Native_Compiler>
   </PropertyGroup>
