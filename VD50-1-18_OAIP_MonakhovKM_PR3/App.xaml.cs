@@ -67,7 +67,7 @@ namespace VD50_1_18_OAIP_MonakhovKM_PR3
                     // Если стек навигации не восстанавливается для перехода к первой странице,
                     // настройка новой страницы путем передачи необходимой информации в качестве параметра
                     // навигации
-                    rootFrame.Navigate(typeof(Autentification), e.Arguments);
+                    rootFrame.Navigate(typeof(Users), e.Arguments);
                 }
                 // Обеспечение активности текущего окна
                 Window.Current.Activate();

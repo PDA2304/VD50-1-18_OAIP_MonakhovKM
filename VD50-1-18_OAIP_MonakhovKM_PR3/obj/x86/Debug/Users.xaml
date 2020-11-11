@@ -9,21 +9,22 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid Padding="20">
+    <Grid x:ConnectionId='2' Padding="20"                           >
         <Grid.RowDefinitions>
             <RowDefinition Height="60"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="200"/>
         </Grid.RowDefinitions>
-        <CommandBar x:ConnectionId='2' VerticalContentAlignment="Center" x:Name="CommandBar" IsOpen="True" IsSticky="False" OverflowButtonVisibility="Collapsed"                              Background="{x:Null}" Grid.Row="0" >
-            <AppBarButton Icon="Add" Label="Добавить" VerticalAlignment="Center" VerticalContentAlignment="Center"/>
-            <AppBarButton Icon="Edit" IsEnabled="False" Label="Изменить" VerticalAlignment="Center" VerticalContentAlignment="Center"/>
-            <AppBarButton Icon="Delete" IsEnabled="False" Label="Удалить" VerticalAlignment="Center" VerticalContentAlignment="Center"/>
-            <AppBarButton x:ConnectionId='4' Icon="Refresh" Label="Обновить" VerticalAlignment="Center" VerticalContentAlignment="Center"                           />
+        <CommandBar x:ConnectionId='3' VerticalContentAlignment="Center" x:Name="CommandBar" IsOpen="True" IsSticky="False" OverflowButtonVisibility="Collapsed"                              Background="{x:Null}" Grid.Row="0" >
+            <AppBarButton x:ConnectionId='5' Icon="Add" Label="Добавить" Name="Add"                   VerticalAlignment="Center" VerticalContentAlignment="Center"/>
+            <AppBarButton x:ConnectionId='6' Icon="Edit" IsEnabled="False"  Label="Изменить" Name="edit"                    VerticalAlignment="Center" VerticalContentAlignment="Center"/>
+            <AppBarButton x:ConnectionId='7' Icon="Delete" IsEnabled="False" Name="Delete"                      Label="Удалить"  VerticalAlignment="Center" VerticalContentAlignment="Center"/>
+            <AppBarButton x:ConnectionId='8' Icon="Refresh" Label="Обновить" VerticalAlignment="Center" VerticalContentAlignment="Center"                           />
             <CommandBar.Content>
                 <TextBlock Style="{StaticResource TitleTextBlockStyle}" Text="Пользователи" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
             </CommandBar.Content>
         </CommandBar>
-        <controls:DataGrid x:ConnectionId='3' Grid.Row="1" x:Name="userList" ItemsSource="{Binding}" AutoGenerateColumns="False"/>
+        <controls:DataGrid x:ConnectionId='4'  Grid.Row="1" x:Name="userList" ItemsSource="{Binding}" AutoGenerateColumns="False"                                              />
     </Grid>
 </Page>
 

@@ -9,20 +9,21 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid Padding="20">
+    <Grid Padding="20" LostFocus="Grid_LostFocus">
         <Grid.RowDefinitions>
             <RowDefinition Height="60"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="200"/>
         </Grid.RowDefinitions>
         <CommandBar VerticalContentAlignment="Center" x:Name="CommandBar" IsOpen="True" IsSticky="False" OverflowButtonVisibility="Collapsed" Closing="CommandBar_Closing" Background="{x:Null}" Grid.Row="0" >
-            <AppBarButton Icon="Add" Label="Добавить" VerticalAlignment="Center" VerticalContentAlignment="Center"/>
-            <AppBarButton Icon="Edit" IsEnabled="False" Label="Изменить" VerticalAlignment="Center" VerticalContentAlignment="Center"/>
-            <AppBarButton Icon="Delete" IsEnabled="False" Label="Удалить" VerticalAlignment="Center" VerticalContentAlignment="Center"/>
+            <AppBarButton Icon="Add" Label="Добавить" Name="Add" Click="Add_Click" VerticalAlignment="Center" VerticalContentAlignment="Center"/>
+            <AppBarButton Icon="Edit" IsEnabled="False"  Label="Изменить" Name="edit" Click="edit_Click" VerticalAlignment="Center" VerticalContentAlignment="Center"/>
+            <AppBarButton Icon="Delete" IsEnabled="False" Name="Delete" Click="Delete_Click" Label="Удалить"  VerticalAlignment="Center" VerticalContentAlignment="Center"/>
             <AppBarButton Icon="Refresh" Label="Обновить" VerticalAlignment="Center" VerticalContentAlignment="Center" Click="AppBarButton_Click"/>
             <CommandBar.Content>
                 <TextBlock Style="{StaticResource TitleTextBlockStyle}" Text="Пользователи" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
             </CommandBar.Content>
         </CommandBar>
-        <controls:DataGrid Grid.Row="1" x:Name="userList" ItemsSource="{Binding}" AutoGenerateColumns="False"/>
+        <controls:DataGrid  Grid.Row="1" x:Name="userList" ItemsSource="{Binding}" AutoGenerateColumns="False" SelectionChanged="userList_SelectionChanged" />
     </Grid>
 </Page>
