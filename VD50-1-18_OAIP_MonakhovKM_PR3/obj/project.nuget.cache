@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JVCV3PGvWGndISpZS/aWDS3ANZJJeJh5E1mG3ulo2CDXR7b1qHoz+ehjtDLZtWRmgLc1icemXorUUTEZCvya3g==",
+  "dgSpecHash": "v/4a/7gqHLbQl0beXWTamWgMURSaBzKFv/Cx6Ki3ShSxZOFyde1xK6u1sqdBEnBL4ghffI7g2R8WdCoT/qzEOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isip_\\Downloads\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3.csproj",
+  "projectFilePath": "C:\\Users\\isip_\\Documents\\GitHub\\VD50-1-18_OAIP_MonakhovKM\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isip_\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\isip_\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>c8a041c3-470d-45dc-97cd-543a2585a1e9</PackageIdentityName>
     <PackageIdentityPublisher>CN=valed</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>2375D4A829D1A198BB523EA28AF064D08C4E1609371FDE8C650597913588013F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>c8a041c3-470d-45dc-97cd-543a2585a1e9_1.0.0.0_x86__9kysnmp5r5z62</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>c8a041c3-470d-45dc-97cd-543a2585a1e9_9kysnmp5r5z62!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-11-10T23:54:40.537</Modified>
+      <Modified>2020-11-11T00:39:11.903</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\VD50-1-18_OAIP_MonakhovKM_PR3.exe">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\VD50-1-18_OAIP_MonakhovKM_PR3.exe">
       <PackagePath>entrypoint\VD50-1-18_OAIP_MonakhovKM_PR3.exe</PackagePath>
-      <Modified>2020-11-10T23:54:39.744</Modified>
+      <Modified>2020-11-11T00:39:09.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\isip_\.nuget\packages\bouncycastle.netcore\1.8.3\lib\netstandard2.0\BouncyCastle.Crypto.dll">
       <PackagePath>BouncyCastle.Crypto.dll</PackagePath>
@@ -126,83 +126,83 @@
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml</PackagePath>
       <Modified>2020-08-12T19:03:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2020-09-28T06:15:23.705</Modified>
+      <Modified>2020-11-11T00:34:01.803</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2019-10-30T21:46:40.073</Modified>
+      <Modified>2020-11-11T00:34:01.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-30T21:46:40.073</Modified>
+      <Modified>2020-11-11T00:34:01.786</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-30T21:46:40.073</Modified>
+      <Modified>2020-11-11T00:34:01.787</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-30T21:46:40.073</Modified>
+      <Modified>2020-11-11T00:34:01.788</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-30T21:46:40.073</Modified>
+      <Modified>2020-11-11T00:34:01.789</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-30T21:46:40.073</Modified>
+      <Modified>2020-11-11T00:34:01.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-30T21:46:40.073</Modified>
+      <Modified>2020-11-11T00:34:01.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\VD50-1-18_OAIP_MonakhovKM_PR3.xr.xml">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\VD50-1-18_OAIP_MonakhovKM_PR3.xr.xml">
       <PackagePath>VD50-1-18_OAIP_MonakhovKM_PR3.xr.xml</PackagePath>
-      <Modified>2020-11-09T17:35:04.847</Modified>
+      <Modified>2020-11-11T00:34:02.209</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-11-10T23:54:39.486</Modified>
+      <Modified>2020-11-11T00:39:09.353</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Autentification.xaml.xbf">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Autentification.xaml.xbf">
       <PackagePath>Autentification.xaml.xbf</PackagePath>
-      <Modified>2020-11-10T23:54:39.486</Modified>
+      <Modified>2020-11-11T00:39:09.354</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\ContentDialog1.xbf">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\ContentDialog1.xbf">
       <PackagePath>ContentDialog1.xbf</PackagePath>
-      <Modified>2020-11-10T23:54:39.487</Modified>
+      <Modified>2020-11-11T00:39:09.355</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-11-10T23:54:39.487</Modified>
+      <Modified>2020-11-11T00:39:09.355</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\PanelFrame.xbf">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\PanelFrame.xbf">
       <PackagePath>PanelFrame.xbf</PackagePath>
-      <Modified>2020-11-10T23:54:39.487</Modified>
+      <Modified>2020-11-11T00:39:09.356</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Users.xbf">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Users.xbf">
       <PackagePath>Users.xbf</PackagePath>
-      <Modified>2020-11-10T23:54:39.487</Modified>
+      <Modified>2020-11-11T00:39:09.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T14:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-11-09T12:26:11.240</Modified>
+      <Modified>2020-11-11T00:39:10.772</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\isip_\Downloads\VD50-1-18_OAIP_MonakhovKM_PR3\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Core\VD50-1-18_OAIP_MonakhovKM_PR3.exe">
+    <AppxPackagedFile Include="C:\Users\isip_\Documents\GitHub\VD50-1-18_OAIP_MonakhovKM\VD50-1-18_OAIP_MonakhovKM_PR3\bin\x86\Debug\Core\VD50-1-18_OAIP_MonakhovKM_PR3.exe">
       <PackagePath>VD50-1-18_OAIP_MonakhovKM_PR3.exe</PackagePath>
-      <Modified>2020-11-10T23:54:40.527</Modified>
+      <Modified>2020-11-11T00:39:11.861</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

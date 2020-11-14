@@ -18558,11 +18558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isip_\\Downloads\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3.csproj",
+      "projectUniqueName": "C:\\Users\\isip_\\Documents\\GitHub\\VD50-1-18_OAIP_MonakhovKM\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3.csproj",
       "projectName": "VD50-1-18_OAIP_MonakhovKM_PR3",
-      "projectPath": "C:\\Users\\isip_\\Downloads\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3.csproj",
+      "projectPath": "C:\\Users\\isip_\\Documents\\GitHub\\VD50-1-18_OAIP_MonakhovKM\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3.csproj",
       "packagesPath": "C:\\Users\\isip_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isip_\\Downloads\\VD50-1-18_OAIP_MonakhovKM_PR3\\VD50-1-18_OAIP_MonakhovKM_PR3\\obj\\",
+      "outputPath": "C:\\Users\\isip_\\Documents\\GitHub\\VD50-1-18_OAIP_MonakhovKM\\VD50-1-18_OAIP_MonakhovKM_PR3\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
